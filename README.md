@@ -1,12 +1,33 @@
-# React + Vite
+# Ochi UI - Awarded UI Design ✨
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+🚀 **Live Demo**: [Ochi UI](https://ochiui-opal.vercel.app/)
 
-Currently, two official plugins are available:
+## 📌 Overview
+Ochi UI is a beautifully crafted **award-winning** UI project that delivers a modern, sleek, and high-performance experience. Built with **React.js, Tailwind CSS, Framer Motion, and GSAP**, it offers smooth animations, interactive components, and a seamless user interface.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+---
 
-## Expanding the ESLint configuration
+## 🌟 Features
+✅ **Responsive Design** - Optimized for all screen sizes.  
+✅ **Framer Motion Animations** - Smooth transitions and page animations.  
+✅ **GSAP Scroll Effects** - Advanced scrolling interactions.  
+✅ **Reusable Components** - Built with modularity in mind.  
+✅ **Fast Performance** - Optimized for speed and smooth UX.  
 
-If you are developing a production application, we recommend using TypeScript and enable type-aware lint rules. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+---
+
+## 🛠️ Tech Stack
+- **Frontend**: React.js, Tailwind CSS  
+- **Animations**: Framer Motion, GSAP  
+- **Deployment**: Vercel  
+
+---
+
+## 📦 Installation & Setup
+To run this project locally, follow these steps:
+
+### 1️⃣ Clone the Repository
+```sh
+git clone https://github.com/gaurayushi/ochi-AwardedUi.git
+cd ochi-AwardedUi
+
