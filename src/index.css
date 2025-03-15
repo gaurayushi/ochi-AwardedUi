@@ -1,0 +1,21 @@
+/* Neue Montreal */
+@font-face {
+  font-family: 'Neue Montreal';
+  src: url('/fonts/NeueMontreal-Regular.ttf') format('truetype');
+  font-weight: 400;
+  font-style: normal;
+}
+
+/* Founders Grotesk Condensed */
+@font-face {
+  font-family: 'Founders Grotesk Condensed';
+  src: url('/fonts/FoundersGrotesk-Semibold.ttf') format('truetype');
+  font-weight: 600; /* Semibold is usually 600 */
+  font-style: normal;
+}
+
+
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
